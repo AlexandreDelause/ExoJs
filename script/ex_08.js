@@ -1,0 +1,26 @@
+window.onload = (function(){
+  var canvas = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[1];
+  canvas.style = "background-color: #FFA500 !important;";
+  var canvas2 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[3];
+  canvas2.style = "background-color: #FFA500 !important;";
+  var canvas3 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[5];
+  canvas3.style = "background-color: #FFA500 !important;";
+  var canvas4 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[7];
+  canvas4.style = "background-color: #FFA500 !important;";
+  var canvas5 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[9];
+  canvas5.style = "background-color: purple !important;";
+  var canvas6 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[11];
+  canvas6.style = "background-color: purple !important;";
+  var canvas7 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[13];
+  canvas6.style = "background-color: purple !important;";
+  var canvas8 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[15];
+  canvas8.style = "background-color: black !important;  ";
+  var canvas9 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[17];
+  canvas9.style = "background-color: #808000 !important;";
+  var canvas10 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[19];
+  canvas10.style = "background-color: #808000 !important;";
+  var canvas11 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[21];
+  canvas11.style = "background-color: #808000 !important;";
+  var canvas12 = document.childNodes[1].childNodes[2].childNodes[1].childNodes[1].childNodes[5].childNodes[1].childNodes[23];
+  canvas12.style = "background-color: #808000 !important;";
+});
